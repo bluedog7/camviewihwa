@@ -1,0 +1,17 @@
+C:\work\001_PlayLive\bin\Interop.IPROPSAPILib.dll
+C:\work\001_PlayLive\bin\AxInterop.IPROPSAPILib.dll
+C:\work\001_PlayLive\obj\x86\Debug\Interop.IPROPSAPILib.dll
+C:\work\001_PlayLive\obj\x86\Debug\AxInterop.IPROPSAPILib.dll
+C:\work\001_PlayLive\obj\x86\Debug\Camview.csproj.ResolveComReference.cache
+C:\work\001_PlayLive\obj\x86\Debug\SimpleSample_Audio.Form1.resources
+C:\work\001_PlayLive\obj\x86\Debug\SimpleSample_Audio.Form2.resources
+C:\work\001_PlayLive\obj\x86\Debug\SimpleSample_Live.Properties.Resources.resources
+C:\work\001_PlayLive\obj\x86\Debug\CamView.View.resources
+C:\work\001_PlayLive\obj\x86\Debug\Camview.csproj.GenerateResource.cache
+C:\work\001_PlayLive\obj\x86\Debug\Camview.csproj.CoreCompileInputs.cache
+C:\work\001_PlayLive\bin\Camview.exe.config
+C:\work\001_PlayLive\bin\Camview.exe
+C:\work\001_PlayLive\bin\Camview.pdb
+C:\work\001_PlayLive\obj\x86\Debug\Camview.exe
+C:\work\001_PlayLive\obj\x86\Debug\Camview.pdb
+C:\work\001_PlayLive\obj\x86\Debug\Camview.csprojAssemblyReference.cache

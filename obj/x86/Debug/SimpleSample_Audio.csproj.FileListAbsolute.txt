@@ -1,0 +1,16 @@
+C:\work\011_Audio\bin\SimpleSample_Audio.exe.config
+C:\work\011_Audio\bin\SimpleSample_Audio.exe
+C:\work\011_Audio\bin\SimpleSample_Audio.pdb
+C:\work\011_Audio\bin\Interop.IPROPSAPILib.dll
+C:\work\011_Audio\bin\AxInterop.IPROPSAPILib.dll
+C:\work\011_Audio\obj\x86\Debug\SimpleSample_Audio.csprojAssemblyReference.cache
+C:\work\011_Audio\obj\x86\Debug\Interop.IPROPSAPILib.dll
+C:\work\011_Audio\obj\x86\Debug\AxInterop.IPROPSAPILib.dll
+C:\work\011_Audio\obj\x86\Debug\SimpleSample_Audio.csproj.ResolveComReference.cache
+C:\work\011_Audio\obj\x86\Debug\SimpleSample_Audio.Form1.resources
+C:\work\011_Audio\obj\x86\Debug\SimpleSample_Audio.Form2.resources
+C:\work\011_Audio\obj\x86\Debug\SimpleSample_Audio.Properties.Resources.resources
+C:\work\011_Audio\obj\x86\Debug\SimpleSample_Audio.csproj.GenerateResource.cache
+C:\work\011_Audio\obj\x86\Debug\SimpleSample_Audio.csproj.CoreCompileInputs.cache
+C:\work\011_Audio\obj\x86\Debug\SimpleSample_Audio.exe
+C:\work\011_Audio\obj\x86\Debug\SimpleSample_Audio.pdb
